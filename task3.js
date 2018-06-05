@@ -50,8 +50,4 @@ if (sec>=5) {
 
 
 
-
-console.log(hour);
-console.log(minutes);
-console.log(sec);
-console.log(str);
+process.stdout.write(str);
